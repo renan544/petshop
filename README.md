@@ -1,2 +1,2 @@
 # petshop
-<img scr"./petshop.png">
+<img src"./petshop.png">
