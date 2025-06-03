@@ -1,2 +1,3 @@
 # petshop
-<img src"./petshop.png">
+
+<img src = "./petshop/Capturar.PNG">
